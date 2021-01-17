@@ -4,7 +4,7 @@ A simple implementation of an image gallery app in android
 
 MainActivity displays all folders with images and the number of images it contains <br />
 <br />
-![](https://cdn-images-1.medium.com/max/800/1*EDp_VGFCP9mFgWtYzon1yA.jpeg)   
+![](https://image.winudf.com/v2/image1/Y29tLmNhc3RpZnlfc2NyZWVuXzFfMTU5MDA0MzkzMV8wNDg/screen-1.jpg?fakeurl=1&type=.jpg)   
 
 Displays all images in a given folder, in this case "FastSave" <br />
 <br />
