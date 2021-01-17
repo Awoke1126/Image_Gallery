@@ -9,10 +9,11 @@ A simple implementation of an image gallery app in android
 Each android device has A gallery app that contains all the images and videos of the device, in this post I will demonstrate how you can create your own simple image gallery application<br>
 -------------------------------------------------------------------------<br>
 #Name------------------------id<br>
-1,Awoke Ayele                1126<br>
-2,Assen hussen               1123<br>
-3,Eyeruss Demisse            1188<br>
-4,Mahilet Manaye             1244<br>
+1,Awoke Ayele ------------------------               1126<br>
+2,Assen hussen ------------------------              1123<br>
+3,Eyeruss Demisse------------------------            1188<br>
+4,Mahilet Manaye  ------------------------           1244<br>
+5,Erkihun Gedefaw------------------------
 
 
 MainActivity displays all folders with images and the number of images it contains <br />
