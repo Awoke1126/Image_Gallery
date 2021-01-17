@@ -3,8 +3,6 @@ A simple implementation of an image gallery app in android
 ### [Read the article on Medium](https://android.jlelse.eu/android-simple-image-gallery-30c0f00abe64?source=friends_link&sk=c203004612a1f0d402db9084feca42d4)
 
 MainActivity displays all folders with images and the number of images it contains <br />
-<br />
-![](https://www.hardwareluxx.de/images/stories/newsbilder/AlinaZ/googlephotos.png)   
 
 Displays all images in a given folder, in this case "FastSave" <br />
 <br />
