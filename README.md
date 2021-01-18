@@ -11,8 +11,8 @@ Each android device has A gallery app that contains all the images and videos of
 #Name------------------------id<br>
 1,Awoke Ayele ------------------------               1126<br>
 2,Assen hussen ------------------------ 1123             1123<br>
-3,Eyeruss Demisse------------------------1188            1188<br>
-4,Mahilet Manaye  ------------------------1244           1244<br>
+3,Eyeruss Demisse------------------------            1188<br>
+4,Mahilet Manaye  ------------------------           1244<br>
 5,Erkihun Gedefaw------------------------             1182
 
 
