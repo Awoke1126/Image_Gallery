@@ -13,7 +13,7 @@ Each android device has A gallery app that contains all the images and videos of
 2,Assen hussen ------------------------              1123<br>
 3,Eyeruss Demisse------------------------            1188<br>
 4,Mahilet Manaye  ------------------------           1244<br>
-5,Erkihun Gedefaw------------------------
+5,Erkihun Gedefaw------------------------             1182
 
 
 MainActivity displays all folders with images and the number of images it contains <br />
